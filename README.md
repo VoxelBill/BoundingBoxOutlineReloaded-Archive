@@ -1,3 +1,7 @@
+> [!note]
+> This project has been migrated to Codeberg and will no longer be updated here.<br>
+> Visit the projects Codeberg repository at: https://codeberg.org/VoxelBill/BoundingBoxOutlineReloaded-Archive
+
 # BoundingBoxOutlineReloaded
 
 BoundingBoxOutlineReloaded is a mod for Minecraft Vanilla, Forge, LiteLoader, Rift, and Fabric
@@ -18,7 +22,7 @@ This mod highlights in a variety of colours and styles the different structures 
 - Slime chunks; dark green boxes highlight where slimes will spawn, with a dynamic box that rises to where the players feet are to help find them from the surface. Bouncy... bouncy...
 - World Spawn & spawn chunks; red boxes outline the world spawn and the spawn chunks (active & lazy).
 - Igloos (*); white boxes show where igloos are. Maybe you can convert the zombie villager back?
-- Shipwrecks (*); cyan boxes are like a lighthouse those wary sailors wish they'd had. Time to find some buried treasure? 
+- Shipwrecks (*); cyan boxes are like a lighthouse those wary sailors wish they'd had. Time to find some buried treasure?
 - Ocean ruins (*); cyan boxes show the different ocean ruin structures. Watch out for those pesky drowns tho!
 - Buried treasure (*); cyan boxes highlight where the heart of the sea can be found. Conduit anyone?
 - Mob Spawners; bright green boxes show where mob spawners are, where mobs will be spawned, and red/orange/green lines help the player see if a spawner is nearby and activated.
@@ -78,7 +82,7 @@ Keep Cache Between Sessions | Bounding box caches are not cleared when disconnec
 
 There are a couple of options when you want bounding boxes to show whilst accessing servers:-
 
-- Use a modded server - Ensure the server is running with this mod loaded (as described above), and connect to the server with a client with this mod loaded. 
+- Use a modded server - Ensure the server is running with this mod loaded (as described above), and connect to the server with a client with this mod loaded.
 - Keep cache - With the "Keep Cache Between Sessions" config setting enabled, Open a copy of the world in single player and move around to capture all the structures you want in the cache. Once you are happy with the structures you have cached, quit the single player game and connect to the server without closing Minecraft. You will see all the structures from the cache.
 
 ## Links
